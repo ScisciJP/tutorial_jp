@@ -13,7 +13,7 @@ SciSciとはどのような分野なのか、どのような問いのもとに�
 の順に構成しています。
 
 # Table of Contents
-- [Getting Started](./GettingStarted.ipynb) - ”Open Alex”というサービスを使ってSciSci分析でどのようなデータを扱っているのか確認しましょう。
-- [Visualizing Science](./CitationClustering.ipynb) - 引用関係を使って論文のネットワークを作り、論文が密に疎に繋がっている様子から分野を抽出できるか検証してみましょう。
-- [Research Evaluation](./Disruptiveness.ipynb) - 科学におけるインパクトを定量化する手法の一つとして現在ホットな"Disruption Index”を学びます。対象論文の引用ネットワークにおける親と子を含めた3世代間の引用比で論文の革新性を表現した論文を再現してみましょう。
-- [Researcher Evaluation](./H-index.ipynb) - 研究者の評価指標として"h-index"を算出し、さらに個々の研究者のh-indexを他の変数から推定してみます。様々な交絡を考慮してより精度高く推定してみてください。
+- [Getting Started](./1-GettingStarted.ipynb) - ”Open Alex”というサービスを使ってSciSci分析でどのようなデータを扱っているのか確認しましょう。
+- [Visualizing Science](./2-CitationClustering.ipynb) - 引用関係を使って論文のネットワークを作り、論文が密に疎に繋がっている様子から分野を抽出できるか検証してみましょう。
+- [Research Evaluation](./3-Disruptiveness.ipynb) - 科学におけるインパクトを定量化する手法の一つとして現在ホットな"Disruption Index”を学びます。対象論文の引用ネットワークにおける親と子を含めた3世代間の引用比で論文の革新性を表現した論文を再現してみましょう。
+- [Researcher Evaluation](./4-H-index.ipynb) - 研究者の評価指標として"h-index"を算出し、さらに個々の研究者のh-indexを他の変数から推定してみます。様々な交絡を考慮してより精度高く推定してみてください。
