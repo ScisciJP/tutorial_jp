@@ -1,0 +1,83 @@
+country_code,country_name,continent
+CH,Switzerland,Europe
+NL,"Netherlands, Kingdom of the",Europe
+GB,United Kingdom of Great Britain and Northern Ireland,Europe
+US,United States of America,NorthAmerica
+AU,Australia,Oceania
+DE,Germany,Europe
+None,#N/A,#N/A
+DK,Denmark,Europe
+IE,Ireland,Europe
+FR,France,Europe
+HU,Hungary,Europe
+JP,Japan,Asia
+CA,Canada,NorthAmerica
+CZ,Czechia,Europe
+RU,Russian Federation,Asia
+IT,Italy,Europe
+AT,Austria,Europe
+SG,Singapore,Asia
+BE,Belgium,Europe
+IN,India,Asia
+KR,"Korea, Republic of",Asia
+CN,China,Asia
+ES,Spain,Europe
+BR,Brazil,SouthAmerica
+NZ,New Zealand,Oceania
+UG,Uganda,Africa
+UA,Ukraine,Europe
+IR,Iran (Islamic Republic of),Asia
+RO,Romania,Europe
+TW,"Taiwan, Province of China",Asia
+ZA,South Africa,Africa
+BG,Bulgaria,Europe
+LT,Lithuania,Europe
+RS,Serbia,Europe
+SE,Sweden,Europe
+IL,Israel,Asia
+HK,Hong Kong,Asia
+EG,Egypt,Africa
+SK,Slovakia,Europe
+PL,Poland,Europe
+ID,Indonesia,Asia
+PK,Pakistan,Asia
+NG,Nigeria,Africa
+SA,Saudi Arabia,Asia
+CL,Chile,SouthAmerica
+FI,Finland,Europe
+IQ,Iraq,Asia
+MX,Mexico,SouthAmerica
+HR,Croatia,Europe
+TR,Türkiye,Asia
+EE,Estonia,Europe
+NP,Nepal,Asia
+GR,Greece,Europe
+KE,Kenya,Africa
+MY,Malaysia,Asia
+AR,Argentina,SouthAmerica
+CO,Colombia,SouthAmerica
+PT,Portugal,Europe
+BA,Bosnia and Herzegovina,Europe
+SI,Slovenia,Europe
+LV,Latvia,Europe
+NO,Norway,Europe
+PH,Philippines,Asia
+MO,Macao,Asia
+TH,Thailand,Asia
+BD,Bangladesh,Asia
+ME,Montenegro,Europe
+LY,Libya,Africa
+KW,Kuwait,Asia
+VN,Viet Nam,Asia
+PE,Peru,SouthAmerica
+LB,Lebanon,Asia
+CY,Cyprus,Asia
+MK,North Macedonia,Europe
+AE,United Arab Emirates,Asia
+KG,Kyrgyzstan,Asia
+MN,Mongolia,Asia
+AL,Albania,Europe
+QA,Qatar,Asia
+KZ,Kazakhstan,Asia
+GH,Ghana,Africa
+BY,Belarus,Europe

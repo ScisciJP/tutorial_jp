@@ -1,6 +1,6 @@
-from pyalex import Works
+from pyalex import Works, Authors
 import tqdm
-
+import pandas as pd
 
 def citation_snowball(id):
     return id
