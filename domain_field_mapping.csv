@@ -1,0 +1,27 @@
+field_id,field_name,domain_id,domain_name
+11,Agricultural and Biological Sciences,1,Life Sciences
+12,Arts and Humanities,2,Social Sciences
+13,"Biochemistry, Genetics and Molecular Biology",1,Life Sciences
+14,"Business, Management and Accounting",2,Social Sciences
+15,Chemical Engineering,3,Physical Sciences
+16,Chemistry,3,Physical Sciences
+17,Computer Science,3,Physical Sciences
+18,Decision Sciences,2,Social Sciences
+19,Earth and Planetary Sciences,3,Physical Sciences
+20,"Economics, Econometrics and Finance",2,Social Sciences
+21,Energy,3,Physical Sciences
+22,Engineering,3,Physical Sciences
+23,Environmental Science,3,Physical Sciences
+24,Immunology and Microbiology,1,Life Sciences
+25,Materials Science,3,Physical Sciences
+26,Mathematics,3,Physical Sciences
+27,Medicine,4,Health Sciences
+28,Neuroscience,1,Life Sciences
+29,Nursing,4,Health Sciences
+30,"Pharmacology, Toxicology and Pharmaceutics",1,Life Sciences
+31,Physics and Astronomy,3,Physical Sciences
+32,Psychology,2,Social Sciences
+33,Social Sciences,2,Social Sciences
+34,Veterinary,4,Health Sciences
+35,Dentistry,4,Health Sciences
+36,Health Professions,4,Health Sciences

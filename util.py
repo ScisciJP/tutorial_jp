@@ -13,8 +13,11 @@ def citation_snowball(id):
 
 def getAll(pyalexObj):
     # pyalexObj.count()
-    pager = pyalexObj.paginate(per_page=200)
+    pager = pyalexObj.paginate(method="page",per_page=200)
     arr = []
     for page in tqdm.tqdm(pager):
         arr += page
     return arr
+
+# obj = Works().filter(institution={"id":"https://openalex.org/I74801974"}, publication_year=">2020",cited_by_count=">10",primary_topic={"field":{"id":11}}).sample(500,seed=42).select(["cited_by_count"])
+# getAll(obj)
