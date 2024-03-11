@@ -2,7 +2,7 @@ import tqdm
 
 def getAll(pyalexObj, verbous=True):
     count = pyalexObj.count()
-    print(f"Fetching {count} objects. it may takes {round(count/200/60,2)} to {round(count/200/60*3,2)} minutes")
+    if verbous: print(f"Fetching {count} objects. it may takes {round(count/200/60,2)} to {round(count/200/60*3,2)} minutes")
     if count>10000:
         pager = pyalexObj.paginate(per_page=200, n_max=None)
     else:
