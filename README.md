@@ -6,11 +6,7 @@ Scisci分野の論文およびコードのチュートリアル。
 SciSciとはどのような分野なのか、どのような問いのもとにどのようなデータを扱って分析を行なっているのか、
 加えてそれらの手法や指標の利点と限界について、概要を学びます。
 
-本チュートリアルは、
 
-[ハンズオン](./GettingStarted.ipynb)→[初級の分析](./2_CitationClustering.ipynb)→[中級の分析](./Disruptiveness.ipynb)（論文の再現）→[演習](./H-index.ipynb)
-
-の順に構成しています。
 
 # Table of Contents
 - [Getting Started](./1-GettingStarted.ipynb) - ”Open Alex”というサービスを使ってSciSci分析でどのようなデータを扱っているのか確認しましょう。
