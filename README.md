@@ -11,7 +11,7 @@ SciSciとはどのような分野なのか、どのような問いのもとに�
 以下4つの章を手元ですぐに試しながら学習を進められるよう、google colaboratoryというサービスで環境を構築してあります。
 これら4つの章は [#Table of Contents](https://github.com/ScisciJP/scisciJP2024_tutorial#table-of-contents) の4つの章にそれぞれ順に対応しています。
 
-[ハンズオン](https://colab.research.google.com/github/ScisciJP/scisciJP2024_tutorial/blob/main/1-GettingStarted.ipynb) -> [Scisci分析の実例を見てみる](https://colab.research.google.com/github/ScisciJP/scisciJP2024_tutorial/blob/main/2_CitationClustering-v2.ipynb)　-> [論文を自分で再現してみる](https://colab.research.google.com/github/ScisciJP/scisciJP2024_tutorial/blob/main/3-Disruptiveness.ipynb) -> [演習：OpenAlexやその他のデータベースを自分で触れるようにする](https://colab.research.google.com/github/ScisciJP/scisciJP2024_tutorial/blob/main/4-H-index.ipynb)
+[ハンズオン](https://colab.research.google.com/github/ScisciJP/scisciJP2024_tutorial/blob/main/1-GettingStarted.ipynb) -> [Scisci分析の実例を見てみる](https://colab.research.google.com/github/ScisciJP/scisciJP2024_tutorial/blob/main/2_CitationClustering.ipynb)　-> [論文を自分で再現してみる](https://colab.research.google.com/github/ScisciJP/scisciJP2024_tutorial/blob/main/3-Disruptiveness.ipynb) -> [演習：OpenAlexやその他のデータベースを自分で触れるようにする](https://colab.research.google.com/github/ScisciJP/scisciJP2024_tutorial/blob/main/4-H-index.ipynb)
 
 それぞれの章は概ね独立していますので、好きな章から試してください。
 
