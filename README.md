@@ -19,7 +19,7 @@ SciSciとはどのような分野なのか、どのような問いのもとに�
 # Table of Contents
 - [Getting Started](./1-GettingStarted.ipynb) 
      - Science of science でどのようなデータを取り扱うのか、”Open Alex”というサービスを使っていくつか分析する中で確認しましょう。
-- [Visualizing Science](./2-CitationClustering.ipynb)
+- [Visualizing Science](./2_CitationClustering.ipynb)
      - 引用関係を使って論文のネットワークを作り、論文が密に疎に繋がっている様子から分野を抽出できるか検証してみましょう。
 - [Research Evaluation](./3-Disruptiveness.ipynb)
      - 研究者評価の指標として、科学におけるインパクトを定量化する手法の一つとして現在ホットな"Disruption Index”を学びます。対象論文の引用ネットワークにおける親と子を含めた3世代間の引用比で論文の革新性を表現した論文を再現してみましょう。
