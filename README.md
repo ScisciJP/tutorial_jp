@@ -13,7 +13,7 @@ Scisci分野の論文およびコードのチュートリアルを、2024年の3
      - 様々な分野で分析した結果を[サンプル](https://github.com/ScisciJP/scisciJP2024_tutorial/tree/main/2_CitationClustering_example)に格納しています。
      - [colab Link](https://colab.research.google.com/github/ScisciJP/scisciJP2024_tutorial/blob/main/2_CitationClustering.ipynb)
 
-- [3. Research Evaluation by Disruptiveness index:トップ論文のD指標の再現](./2_CitationClustering.ipynb) 
+- [3. Research Evaluation by Disruptiveness index:D指標(Nature論文)の再現](./2_CitationClustering.ipynb) 
      - 研究者評価の指標として、科学におけるインパクトを定量化する手法の一つとして現在ホットな"Disruption Index”を学びます。対象論文の引用ネットワークにおける親と子を含めた3世代間の引用比で論文の革新性を表現した論文を再現してみましょう。
      - [colab Link](https://colab.research.google.com/github/ScisciJP/scisciJP2024_tutorial/blob/main/3-Disruptiveness.ipynb)
 
