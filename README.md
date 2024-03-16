@@ -4,6 +4,8 @@ Scisci分野の論文およびコードのチュートリアルを、2024年の3
 
 実際のデータを分析することで、SciSciの研究内容と着眼点や手法の限界について学びます。OpenAlexという無料のデータベースを利用し、Google Colabでコードを実装しますので、ブラウザがあればどのような環境でも動作します。
 
+[概要スライド](./scisciチュートリアル.pptx)
+
 - [1. Getting Started:データへのアクセスと基礎分析](./1-GettingStarted.ipynb) 
      - Science of science でどのようなデータを取り扱うのか、”Open Alex”というサービスを使っていくつか分析する中で確認しましょう。
      - [colab Link](https://colab.research.google.com/github/ScisciJP/scisciJP2024_tutorial/blob/main/1-GettingStarted.ipynb)
