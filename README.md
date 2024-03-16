@@ -10,6 +10,7 @@ Scisci分野の論文およびコードのチュートリアルを、2024年の3
 
 - [2. Visualizing Science:特定の学術分野の分類と可視化による理解](./2_CitationClustering.ipynb) 
      - 特定の学術分野の論文を抽出し、引用関係を使って論文のネットワークを作り、論文が密に疎に繋がっている様子から分野を抽出できるか検証してみましょう。
+     - 様々な分野で分析した結果を[サンプル](https://github.com/ScisciJP/scisciJP2024_tutorial/tree/main/2_CitationClustering_example)に格納しています。
      - [colab Link](https://colab.research.google.com/github/ScisciJP/scisciJP2024_tutorial/blob/main/2_CitationClustering.ipynb)
 
 - [3. Research Evaluation by Disruptiveness index:トップ論文のD指標の再現](./2_CitationClustering.ipynb) 
