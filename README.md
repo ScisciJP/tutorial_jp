@@ -10,10 +10,10 @@ Scisci分野の論文およびコードのチュートリアルを、2024年の3
      - Science of science でどのようなデータを取り扱うのか、”Open Alex”というサービスを使っていくつか分析する中で確認しましょう。
      - [colab Link](https://colab.research.google.com/github/ScisciJP/scisciJP2024_tutorial/blob/main/1-GettingStarted.ipynb)
 
-- [2. Visualizing Science:特定の学術分野の分類と可視化による理解](./2_CitationClustering.ipynb) 
+- [2. Visualizing Science:特定の学術分野の分類と可視化による理解](./2-CitationClustering.ipynb) 
      - 特定の学術分野の論文を抽出し、引用関係を使って論文のネットワークを作り、論文が密に疎に繋がっている様子から分野を抽出できるか検証してみましょう。
-     - 様々な分野で分析した結果を[サンプル](https://github.com/ScisciJP/scisciJP2024_tutorial/tree/main/2_CitationClustering_example)に格納しています。
-     - [colab Link](https://colab.research.google.com/github/ScisciJP/scisciJP2024_tutorial/blob/main/2_CitationClustering.ipynb)
+     - 様々な分野で分析した結果を[サンプル](https://github.com/ScisciJP/scisciJP2024_tutorial/tree/main/2-CitationClustering_example)に格納しています。
+     - [colab Link](https://colab.research.google.com/github/ScisciJP/scisciJP2024_tutorial/blob/main/2-CitationClustering.ipynb)
 
 - [3. Research Evaluation by Disruptiveness index:D指標(Nature論文)の再現](./2_CitationClustering.ipynb) 
      - 研究者評価の指標として、科学におけるインパクトを定量化する手法の一つとして現在ホットな"Disruption Index”を学びます。対象論文の引用ネットワークにおける親と子を含めた3世代間の引用比で論文の革新性を表現した論文を再現してみましょう。
