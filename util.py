@@ -5,7 +5,7 @@ def getAll(pyalexObj, verbous=True):
     if verbous:
         if count/200/60<1:
             print(f"Fetching {count} objects. it may takes {round(count/200,2)} to {round(count/200*3,2)} seconds")
-        if count/200/60<1:
+        else:
             print(f"Fetching {count} objects. it may takes {round(count/200/60,2)} to {round(count/200/60*3,2)} minutes")
     if count>10000:
         pager = pyalexObj.paginate(per_page=200, n_max=None)
